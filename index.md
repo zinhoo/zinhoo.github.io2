@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## WELCOME TO ZIHAO'S PAGE
 
-You can use the [editor on GitHub](https://github.com/zinhoo/zinhoo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Personal Info.
 
-### Markdown
+I am a junior scientist now working in Philips Creation Center SY. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My main research interests are Machine Learning, Computional Tomography, Image Processing,  Computer Vision and Computer architecture, I am also interested in Computional Finance and Statistics. I am now working for application of Machine Learning for Medical System.
 
 ```markdown
 Syntax highlighted code block
