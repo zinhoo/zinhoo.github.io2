@@ -10,7 +10,7 @@ My main research interests are Machine Learning, Computional Tomography, Image P
 
 ### Relevant Work.
 
-System Failure Analysis and Predication, 2016. [GE Healthcare France](www3.gehealthcare.fr).
+System Failure Analysis and Predication, 2016. [GE Healthcare France](http://www3.gehealthcare.fr).
 
 
 ### Support or Contact
