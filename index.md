@@ -15,6 +15,15 @@ People counting by Support Vector Machine -- An Approach of Feature Extraction b
 System Failure Analysis and Predication, 2016. [GE Healthcare France](http://www3.gehealthcare.fr).
 
 
+### Relevant Projects.
+Coming
+
+### Deep reinforcement learning
+Coming
+### GANs
+Coming
 ### Support or Contact
 
 You can contact me with [Email](http://zihaowang@live.cn).
+
+Last Update: 2017-6-15 13:05:44
