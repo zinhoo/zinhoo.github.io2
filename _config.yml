@@ -13,7 +13,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "ESPRIT"
+title:		           "ESPRITech"
 description:	       "An Intellgent Solution Inc."
 author:              "Paul Le"
 
