@@ -2,5 +2,15 @@
 layout: misc
 title: Contact
 ---
+Email:public@espritech.cn
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+Address:
+China mainland office: Level 12, Dongfangjinshi Office Building
+Huangdao District of Qingdao
+P.R.China
+
+France office:
+2004 Route des Lucioles,
+06902 Valbonne
+France
+
