@@ -2,7 +2,7 @@
 layout: post
 title: "Who We Are"
 author: "Espritech"
-categories: documentation
+categories: home
 tags: [documentation,sample]
 image:
   feature: qingdaoBW.jpg
