@@ -8,7 +8,7 @@ image:
   feature: qingdaoBW.jpg
 ---
 
-Espritech Solutions is a Qingdao-based consultancy also have offices in Sophia-Antipolis France, specialized in optimizing the investment,machinery industry import and export solutions in north China.
+Espritech Solutions is a Qingdao-based consultancy also have offices in Sophia-Antipolis France, specialized in optimizing the investment, machinery industry import and export solutions in north China.
 Our sound proprietary research and methodologies contain applicable solutions for quantitative investment.
 Our bespoke contribution results in a more skilled investment decision, empowering the decision maker to reach defined investment objectives and to develop a competitive edge.
 We are a team of internationally renowned specialists in different asset management fields. 
