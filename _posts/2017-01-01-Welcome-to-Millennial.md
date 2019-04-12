@@ -15,13 +15,10 @@ We are a team of internationally renowned specialists in different asset managem
 
 ### Quantitative finance
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-Text-Formatting %})
-
-[Math and Code Formatting]({{ site.github.url }}{% post_url 2016-08-08-Math-and-Code-Formatting %})
+Espritech
 
 ### Smart industry and artificial intelligence
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
 
 ### Machinery manufacturing market
 

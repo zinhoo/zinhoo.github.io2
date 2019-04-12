@@ -9,17 +9,17 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 menu:
-- {name: 'Soultions', folder: 'pages', file: 'facts.html'}
-- {name: 'Technology', folder: 'pages', file: 'resources.html'}
-- {name: 'About ESPRITECH', folder: 'pages', file: 'about.html'}
+- {name: 'Home', folder: 'pages', file: 'facts.html'}
+- {name: 'Soultions', folder: 'pages', file: 'resources.html'}
+- {name: 'How To Join', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
-- {name: 'Media', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
+- {name: 'Important disclosures', folder: 'pages', file: 'sample-posts.html'}
+# - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link: 'https://twitter.com/espritech'}
-- {icon: 'facebook', link: 'https://www.facebook.com/espritech'}
-- {icon: 'instagram', link: 'https://instagram.com/espritech'}
+# - {icon: 'twitter', link: 'https://twitter.com/espritech'}
+# - {icon: 'facebook', link: 'https://www.facebook.com/espritech'}
+# - {icon: 'instagram', link: 'https://instagram.com/espritech'}
 - {icon: 'envelope', link: 'public@espritech.com'}
-- {icon: 'rss-square', link: 'feed.xml'}
+# - {icon: 'rss-square', link: 'feed.xml'}
