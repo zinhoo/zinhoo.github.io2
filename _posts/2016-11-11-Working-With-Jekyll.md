@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Working With Jekyll"
-author: "Paul Le"
+author: "Espritech"
 categories: documentation
 tags: [documentation,sample]
 image:

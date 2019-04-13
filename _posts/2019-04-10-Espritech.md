@@ -20,8 +20,23 @@ We are a team of internationally renowned specialists in different asset managem
 [Math and Code Formatting]({{ site.github.url }}{% post_url 2016-08-08-Math-and-Code-Formatting %})
 
 ### Smart industry and artificial intelligence
+Medical image data is an important part of medical data. More than 90% of medical data is image data in terms of quantity. From the data generation equipment, medical image data such as CT, X-ray, MRI, and PET are included. According to statistics, the annual growth rate of medical imaging data is 63%, while the annual growth rate of radiologists is only 2%. The supply gap of radiologists is very large.
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+The combination of artificial intelligence technology and medical imaging is expected to 
+alleviate such problems. The application of artificial intelligence technology in medical 
+imaging mainly refers to the rapid reading and intelligent diagnosis of medical images by 
+computer vision technology. The application of artificial intelligence in medical imaging 
+is mainly divided into two parts: one is the perceptual data, that is, the medical image is
+analyzed by image recognition technology to obtain effective information; the second is data
+learning and training, through deep learning of massive image data and clinical Diagnose
+the data and continuously train the model to master its diagnostic capabilities. 
+At present, the combination of artificial intelligence technology and medical imaging 
+diagnosis includes lung cancer examination, sugar net fundus examination, esophageal
+cancer examination, nuclear medicine examination and pathological examination of some 
+diseases. The steps of judging the benign malignancy of lung tumors by artificial 
+intelligence technology include: data collection, data preprocessing, image segmentation,
+lung nodule marking, model training, and classification prediction.
+
 
 ### Machinery manufacturing market
 
