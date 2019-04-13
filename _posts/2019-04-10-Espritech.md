@@ -43,7 +43,7 @@ lung nodule marking, model training, and classification prediction.
 ### Feed and agricultural market
 
 [Agricultural market]({{ site.github.url }}{% post_url 2016-11-11-Working-With-Jekyll %}):  
-We provide our customerAs with professional import solutions for agricultural and fishery 
+We provide our customer with professional import solutions for agricultural and fishery 
 products. Along with the continued growth of the global economy, the number of new 
 procurement locations, imports and the number of borders that goods have crossed throughout 
 the transportation process have increased accordingly. As the supply chain continues to 

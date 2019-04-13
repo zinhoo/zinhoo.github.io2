@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Working With Jekyll"
+title: "Agriculture Production Market"
 author: "Espritech"
 categories: documentation
 tags: [documentation,sample]
@@ -10,21 +10,21 @@ image:
 
 ### Posts
 
-You will find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+We provide our customer with professional import solutions for agricultural and fishery 
+products. Along with the continued growth of the global economy, the number of new 
+procurement locations, imports and the number of borders that goods have crossed throughout 
+the transportation process have increased accordingly. As the supply chain continues to 
+become more global in nature, the number of borders that goods cross in the transportation 
+process not only increases the complexity of cargo transportation, but also increases the 
+variety of government regulations and regulations that companies need to follow.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works. If you already have a website built with Jekyll, simply copy over your posts.
-
-### Configuration
-
-To change site settings, edit the `settings.yml` file found in the `_data` folder in the root directory. Anything in the `settings.yml` file can be tweaked to your liking.
-
-If you are hosting your site on GitHub Pages, then committing a change to the `_config.yml` file will force a rebuild of your site with Jekyll. Any changes made should be viewable soon after. If you are hosting your site locally, then you must run `jekyll serve` again for the changes to take place.
-
-In the `settings.yml` file, you'll be able to change the title of your site along with any tagline you want, which shows up in the site header, as well as the description of your site for SEO purposes. You can also change the social media information, and add your own social media icons.
-
-### Everything Else
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+If your company's business involves importing goods, then you can understand what is involved
+from the purchase order to the final delivery. Only when correct and timely data is fully 
+shared across the supply chain and all trading partners is it possible to achieve cargo 
+transportation throughout the global supply chain. By providing accurate and necessary data
+to jurisdictions with jurisdiction to facilitate smooth transactions between trading 
+partners, the speed of the supply chain is increased and the risk of trade interruptions
+is reduced.
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
