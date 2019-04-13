@@ -15,9 +15,7 @@ We are a team of internationally renowned specialists in different asset managem
 
 ### Quantitative finance
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-Text-Formatting %})
-
-[Math and Code Formatting]({{ site.github.url }}{% post_url 2016-08-08-Math-and-Code-Formatting %})
+Our finances and their derivatives are not currently open to the public.
 
 ### Smart industry and artificial intelligence
 Medical image data is an important part of medical data. More than 90% of medical data is image data in terms of quantity. From the data generation equipment, medical image data such as CT, X-ray, MRI, and PET are included. According to statistics, the annual growth rate of medical imaging data is 63%, while the annual growth rate of radiologists is only 2%. The supply gap of radiologists is very large.
