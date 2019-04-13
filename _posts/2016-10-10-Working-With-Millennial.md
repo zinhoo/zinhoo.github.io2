@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Working With Millennial"
+title: "finances"
 author: "Espritech"
 categories: documentation
 tags: [documentation,sample]
 image:
-  feature: city-1.jpg
+  feature: arctic-1.jpg
 ---
 
-### Layouts
+### Finances 
 Our finances and their derivatives are not currently open to the public.

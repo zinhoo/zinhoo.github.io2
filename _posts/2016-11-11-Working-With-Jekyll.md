@@ -5,7 +5,7 @@ author: "Espritech"
 categories: documentation
 tags: [documentation,sample]
 image:
-  feature: arctic-1.jpg
+  feature: city-1.jpg
 ---
 
 ### Posts
