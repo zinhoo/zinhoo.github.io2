@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "finances"
+title: "Finances"
 author: "Espritech"
 categories: documentation
 tags: [documentation,sample]
