@@ -11,12 +11,13 @@ image:
 Espritech Solutions is a Qingdao-based consultancy also have offices in Sophia-Antipolis France, specialized in optimizing the investment, machinery industry import and export solutions in north China.
 Our sound proprietary research and methodologies contain applicable solutions for quantitative investment.
 Our bespoke contribution results in a more skilled investment decision, empowering the decision maker to reach defined investment objectives and to develop a competitive edge.
-We are a team of internationally renowned specialists in different asset management fields. 
+We are a team of specialists in different asset and solution management fields. 
 
 ### Quantitative finance
 
-Our finances and their derivatives are not currently open to the public.
+ATTENTION: Our finances and their derivatives are not currently open to the public, the fund is now closed until 06, June, 2021.
 
+Operating around the clock and around the globe, we trade a wide range of instruments including spot, futures, swaps, options and other listed products across 40 electronic exchanges and alternative trading venues. With an emphasis on speed, market-leading technology, and algorithmic execution, we offer customized liquidity solutions to a broad client base
 ### Smart industry and artificial intelligence
 Medical image data is an important part of medical data. More than 90% of medical data is image data in terms of quantity. From the data generation equipment, medical image data such as CT, X-ray, MRI, and PET are included. According to statistics, the annual growth rate of medical imaging data is 63%, while the annual growth rate of radiologists is only 2%. The supply gap of radiologists is very large.
 
