@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: none
 title: "Agriculture Production Market"
 author: "Espritech"
 categories: documentation
