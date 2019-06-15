@@ -39,7 +39,11 @@ lung nodule marking, model training, and classification prediction.
 
 ### Machinery manufacturing market
 
-[Machinery market]({{ site.github.url }}{% post_url 2016-12-12-Installation-Guide %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+[Machinery market]({{ site.github.url }}{% post_url 2016-12-12-Installation-Guide %}): We could offer a large selection of various used machine tools for many fields of activities (machining, cutting, metal forming...).
+
+Metal cutting : floor borers, bridge milling machines, bed milling machines, vertical borers, lathes, unit centers, cylindrical grinders, surface grinders, drilling machines, gear hobbers...
+Sheet metal : lasers, punching machines, waterjet cutting machines, shears, press brakes, bending machines, saws...
+Others : industrial robots, cut-to-lenght lines, slitting lines, wire industry equipments...
 
 ### Feed and agricultural market
 
