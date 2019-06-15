@@ -1,8 +1,8 @@
 ---
-layout: none
+layout: post
 title: "Agriculture Production Market"
 author: "Espritech"
-categories: documentation
+categories: none
 tags: [documentation,sample]
 image:
   feature: city-1.jpg

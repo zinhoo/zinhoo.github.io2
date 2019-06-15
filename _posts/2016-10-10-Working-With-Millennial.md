@@ -2,7 +2,7 @@
 layout: post
 title: "Finances"
 author: "Espritech"
-categories: documentation
+categories: none
 tags: [documentation,sample]
 image:
   feature: arctic-1.jpg
