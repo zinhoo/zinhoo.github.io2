@@ -28,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/_data/settings.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -98,21 +98,6 @@
             <path>
               <item name="zinhoo.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="zinhoo.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zinhoo.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zinhoo.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zinhoo.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zinhoo.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="menu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zinhoo.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zinhoo.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -153,12 +138,12 @@
       <workItem from="1555147477520" duration="262000" />
       <workItem from="1555149517153" duration="1093000" />
       <workItem from="1560541357885" duration="1809000" />
-      <workItem from="1560586997788" duration="743000" />
+      <workItem from="1560586997788" duration="868000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5618000" />
+    <option name="totallyTimeSpent" value="5743000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="823" extended-state="6" />
@@ -361,9 +346,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/documentation.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_data/authors.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -427,10 +409,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pages/documentation.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/_data/settings.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>

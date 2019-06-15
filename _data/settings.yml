@@ -14,7 +14,7 @@ menu:
 - {name: 'Research', folder: 'pages', file: 'research.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 #- {name: 'Important Disclosures', folder: 'pages', file: 'disclosures.html'}
- - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
+- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
