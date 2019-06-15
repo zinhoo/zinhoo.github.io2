@@ -11,7 +11,7 @@ disqus:
 menu:
 - {name: 'Home', folder: 'pages', file: 'home.html'}
 - {name: 'Investors', folder: 'pages', file: 'investor.html'}
-- {name: 'Research', folder: 'pages', file: 'about.md'}
+- {name: 'Research', folder: 'pages', file: 'contact.md'}
 #- {name: 'Important Disclosures', folder: 'pages', file: 'disclosures.html'}
 - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
