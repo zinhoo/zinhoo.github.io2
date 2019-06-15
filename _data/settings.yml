@@ -12,14 +12,14 @@ menu:
 - {name: 'Home', folder: 'pages', file: 'home.html'}
 - {name: 'Investors', folder: 'pages', file: 'investor.html'}
 - {name: 'Research', folder: 'pages', file: 'research.html'}
-- {name: 'Contact', folder: 'pages', file: 'contact.html'}
 #- {name: 'Important Disclosures', folder: 'pages', file: 'disclosures.html'}
 - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
+- {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 # - {icon: 'twitter', link: 'https://twitter.com/espritech'}
 # - {icon: 'facebook', link: 'https://www.facebook.com/espritech'}
 # - {icon: 'instagram', link: 'https://instagram.com/espritech'}
-- {icon: 'envelope', link: 'public@espritech.com'}
+- {icon: 'envelope', link: 'http://public@espritech.cn'}
 # - {icon: 'rss-square', link: 'feed.xml'}
