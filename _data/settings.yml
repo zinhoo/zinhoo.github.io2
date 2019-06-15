@@ -10,11 +10,11 @@ disqus:
 
 menu:
 - {name: 'Home', folder: 'pages', file: 'home.html'}
-- {name: 'Investors', folder: 'pages', file: 'investor.html'}
 - {name: 'Research', folder: 'pages', file: 'contact.html'}
-#- {name: 'Important Disclosures', folder: 'pages', file: 'disclosures.html'}
 - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
+- {name: 'Investors', folder: 'pages', file: 'investor.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
+#- {name: 'Important Disclosures', folder: 'pages', file: 'disclosures.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

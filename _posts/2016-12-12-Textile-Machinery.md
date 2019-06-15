@@ -2,7 +2,7 @@
 layout: post
 title: "Textile Machinery and Marketing Consulting"
 author: "Espritech"
-categories: investor
+categories: documentation
 tags: [documentation,sample]
 image:
   feature: city-2.jpg
