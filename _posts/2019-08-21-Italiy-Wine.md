@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bordeaux wine industrial institute"
+title: "Italiy Red Wine"
 author: "Xing Jia"
 categories: documentation
 tags: [documentation,sample]
