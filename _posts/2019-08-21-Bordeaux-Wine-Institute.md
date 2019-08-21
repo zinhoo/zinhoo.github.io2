@@ -5,7 +5,7 @@ author: "Espritech"
 categories: none
 tags: [documentation,sample]
 image:
-  feature: nature-1.jpg
+  feature: cuba-4.jpg
 ---
 
 ### Qingdao west cost wine industrial institute 
