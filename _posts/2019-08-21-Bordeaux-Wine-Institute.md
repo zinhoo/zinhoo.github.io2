@@ -14,4 +14,5 @@ An integrated industrial park. The main entrance of the project is located on th
 The main entrance image square, the second floor of the main building is the exhibition hall, combined with the square to form a good city display interface, the project 
 On the south side, there are sub-entry and garage entrances. The project scale is detailed in the economic and technical indicators table.
 
-![avatar](assets/img/nature-1.jpg)
+![avatar](image:
+  feature: nature-1.jpg)
