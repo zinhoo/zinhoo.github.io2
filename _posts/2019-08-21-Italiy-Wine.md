@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Italiy Red Wine"
+title: "Italy Red Wine"
 author: "Espritech"
 categories: documentation
 tags: [documentation,sample]
 image:
-  feature: artic-2.jpg
+  feature: arctic-2.jpg
 ---
-# Italiy Red Wine
+# Italy Red Wine
 ## Good
 ### Very
 意大利葡萄酒
